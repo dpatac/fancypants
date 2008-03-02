@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <ConfigMaps> 
   <ConfigMap type="Skin"> 
-    <Meta name="title">Simple Theme</Meta> 
-    <Meta name="description">Simple theme example.</Meta> 
-    <Meta name="author">Rowan</Meta> 
+    <Meta name="title">Fancy Pants</Meta> 
+    <Meta name="description">An igoogle theme based on the Fancy Pants Game</Meta> 
+    <Meta name="author">Douglas Patac</Meta> 
   </ConfigMap> 
   <ConfigMap type="Skin"> 
     <Attribute name="header.background_color">#a9a9a9</Attribute> 
     <Attribute name="header.logo">yellow</Attribute>
 	<Attribute name="header.center_image.url">http://fancypants.googlecode.com/svn/trunk/center_img.png</Attribute> 
-    <Attribute name="header.link_color">#fff000</Attribute>
-    <Attribute name="header.text_color">#fff999</Attribute> 
+    <Attribute name="header.link_color">blue</Attribute>
+    <Attribute name="header.text_color">blue</Attribute> 
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
     <Attribute name="gadget_area.tab.unselected.text_color">purple</Attribute> 
   </ConfigMap> 
