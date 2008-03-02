@@ -10,8 +10,6 @@
     <Attribute name="header.logo">yellow</Attribute>
 	<Attribute name="header.center_image.url">http://fancypants.googlecode.com/svn/trunk/center_img.png</Attribute> 
     <Attribute name="header.link_color">#fff000</Attribute>
-	<Attribute name="gadget_area.border_color">black</Attribute> 
- 	<Attribute name="gadget_area.gadget.border_color">black<Attribute>
     <Attribute name="header.text_color">#fff999</Attribute> 
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
     <Attribute name="gadget_area.tab.unselected.text_color">purple</Attribute> 
