@@ -6,8 +6,8 @@
     <Meta name="author">Rowan</Meta> 
   </ConfigMap> 
   <ConfigMap type="Skin"> 
-    <Attribute name="header.background_color">red</Attribute> 
-    <Attribute name="header.logo">white</Attribute> 
+    <Attribute name="header.background_color">orange</Attribute> 
+    <Attribute name="header.logo">purple</Attribute> 
     <Attribute name="header.link_color">#fff000</Attribute> 
     <Attribute name="header.text_color">#fff999</Attribute> 
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
