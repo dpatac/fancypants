@@ -7,7 +7,7 @@
   </ConfigMap> 
   <ConfigMap type="Skin"> 
     <Attribute name="header.background_color">#a9a9a9</Attribute> 
-    <Attribute name="header.logo">beveled_orange</Attribute>
+    <Attribute name="header.logo">yellow</Attribute>
 	<Attribute name="header.center_image.url">http://fancypants.googlecode.com/svn/trunk/center_img.png</Attribute> 
     <Attribute name="header.link_color">#fff000</Attribute> 
     <Attribute name="header.text_color">#fff999</Attribute> 
