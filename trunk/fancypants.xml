@@ -13,6 +13,7 @@
     <Attribute name="header.text_color">blue</Attribute>
 	<Attribute name="gadget_area.gadget.header.background_color">yellow<Attribute>
 	<Attribute name="gadget_area.gadget.border_color">yellow<Attribute>
+	<Attribute name="gadget_area.border_color">yellow<Attribute>
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
     <Attribute name="gadget_area.tab.unselected.text_color">purple</Attribute> 
   </ConfigMap> 
