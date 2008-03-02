@@ -9,8 +9,9 @@
     <Attribute name="header.background_color">#a9a9a9</Attribute> 
     <Attribute name="header.logo">yellow</Attribute>
 	<Attribute name="header.center_image.url">http://fancypants.googlecode.com/svn/trunk/center_img.png</Attribute> 
-    <Attribute name="header.link_color">yellow</Attribute>
-    <Attribute name="header.text_color">yellow</Attribute> 
+    <Attribute name="header.link_color">blue</Attribute>
+    <Attribute name="header.text_color">blue</Attribute>
+	<Attribute name="gadget_area.gadget.header.background_color">yellow<Attribute>
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
     <Attribute name="gadget_area.tab.unselected.text_color">purple</Attribute> 
   </ConfigMap> 
