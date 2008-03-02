@@ -6,8 +6,9 @@
     <Meta name="author">Rowan</Meta> 
   </ConfigMap> 
   <ConfigMap type="Skin"> 
-    <Attribute name="header.background_color">orange</Attribute> 
-    <Attribute name="header.logo">purple</Attribute> 
+    <Attribute name="header.background_color">#999999</Attribute> 
+    <Attribute name="header.logo">purple</Attribute>
+	<Attribute name="header.center_image.url">http://fancypants.googlecode.com/svn/trunk/center_img.png</Attribute> 
     <Attribute name="header.link_color">#fff000</Attribute> 
     <Attribute name="header.text_color">#fff999</Attribute> 
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
