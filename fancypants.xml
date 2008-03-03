@@ -17,7 +17,7 @@
 	<Attribute name="gadget_area.border_color">yellow<Attribute>-->
 	<Attribute name="gadget_area.border_color">gray</Attribute>
 	<Attribute name="gadget_area.gadget.border_color">gray</Attribute>
-	<Attribute name="gadget_area.gadget.header.background_color">#666666</Attribute>
+	<Attribute name="gadget_area.gadget.header.background_color">#A9A9A9</Attribute>
 	
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
     <Attribute name="gadget_area.tab.unselected.text_color">purple</Attribute> 
