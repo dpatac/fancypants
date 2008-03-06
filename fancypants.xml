@@ -3,7 +3,11 @@
   <ConfigMap type="Skin"> 
     <Meta name="title">Fancy Pants</Meta> 
     <Meta name="description">An igoogle theme based on the Fancy Pants Game</Meta> 
-    <Meta name="author">Douglas Patac</Meta> 
+    <Meta name="author">Douglas Patac</Meta>
+	<Meta name="author_email">dpatac@gmail.com</Meta>
+    <Meta name="thumbnail">http://fancypants.googlecode.com/svn/trunk/fancypantstmb.png</Meta> 
+    <Meta name="screenshot">http://fancypants.googlecode.com/svn/trunk/fancypantsscr.png</Meta>
+
   </ConfigMap> 
   <ConfigMap type="Skin"> 
     <Attribute name="header.background_color">#a9a9a9</Attribute> 
@@ -11,10 +15,6 @@
 	<Attribute name="header.center_image.url">http://fancypants.googlecode.com/svn/trunk/center_img.png</Attribute> 
     <Attribute name="header.link_color">blue</Attribute>
     <Attribute name="header.text_color">blue</Attribute>
-	<!--
-	<Attribute name="gadget_area.gadget.header.background_color">yellow<Attribute>
-	<Attribute name="gadget_area.gadget.border_color">yellow<Attribute>
-	<Attribute name="gadget_area.border_color">yellow<Attribute>-->
 	<Attribute name="gadget_area.border_color">gray</Attribute>
 	<Attribute name="gadget_area.gadget.border_color">gray</Attribute>
 	<Attribute name="gadget_area.gadget.header.background_color">#A9A9A9</Attribute>
