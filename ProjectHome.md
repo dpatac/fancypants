@@ -1,0 +1,1 @@
+An igoogle theme based on the game Fancy Pants.
